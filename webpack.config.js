@@ -43,7 +43,8 @@ module.exports = function(env){
           },
         ],
 
-      }, 
+      },  
+	  
        resolve: {
                 modules: [
                     path.resolve(root_dir, "app"),
